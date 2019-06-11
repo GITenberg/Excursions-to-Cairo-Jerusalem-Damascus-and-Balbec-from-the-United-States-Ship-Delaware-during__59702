@@ -1,5 +1,8 @@
 _repo: Excursions-to-Cairo-Jerusalem-Damascus-and-Balbec-from-the-United-States-Ship-Delaware-during__59702
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59702-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, George
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '41706'
     url: http://www.gutenberg.org/2009/agents/41706
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59702#Excursions-to-Cairo-Jerusalem-Damascus-and-Balbec-from-the-United-States-Ship-Delaware-during_
 gutenberg_issued: '2019-06-08'
 gutenberg_type: Text
 identifiers:
